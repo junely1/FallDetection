@@ -22,7 +22,7 @@ send_alarm.py is responsible for email alerts.
 
 Run:
 
-python main.py -v ./vids/cam1.avi -a 4000
+python main.py -v cam1.avi -a 4000
 
 To run this program, go to the file directory on terminal and use the following line, where ./vids/cam1.avi is the video to be processed (you may change) and 4000 is the minimum area value (experimentally 4000 gave u the best result).
 
